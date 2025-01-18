@@ -1,5 +1,5 @@
 # AutomationExercise-TestCase11-VerifySubscriptionInCartpage
-Test Case 10: Verify Subscription in Cart Page
+Test Case 11: Verify Subscription in Cart Page
 
 This repository contains the implementation and documentation of Test Case 10 from Automation Exercise: "Verify Subscription in Cart Page."
 
